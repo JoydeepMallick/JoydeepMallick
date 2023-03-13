@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Holla%20Contributors&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=Holla%20Contributors&fontSize=90" />
 
 Want to learn how I did it 🐱‍🚀
 
