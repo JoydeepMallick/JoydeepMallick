@@ -1,6 +1,5 @@
-### Hi there 👋
+<!-- ### Hi there 👋 
 
-<!--
 **JoydeepMallick/JoydeepMallick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -15,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=Holla%20Contributors&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=👋Holla%20Contributors&fontSize=90&animation=fadeIn" />
 
 Want to learn how I did it 🐱‍🚀
 
