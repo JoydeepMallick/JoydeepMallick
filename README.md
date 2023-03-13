@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 
 Want to learn how I did it 🐱‍🚀
 
-Do give it a read, the blog had been of great help:- ![design an attractive github profile](https://bootcamp.uxdesign.cc/how-to-design-an-attractive-github-profile-readme-3618d6c53783)
+Do give it a read, the blog had been of great help:- [design an attractive github profile](https://bootcamp.uxdesign.cc/how-to-design-an-attractive-github-profile-readme-3618d6c53783)
