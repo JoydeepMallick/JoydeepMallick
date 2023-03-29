@@ -43,6 +43,11 @@ Here are some ideas to get you started:
   <a href="https://www.linkedin.com/in/joydeep-mallick-466a78251/"><img height="50" src="https://cdn2.iconfinder.com/data/icons/social-icon-3/512/social_style_3_in-306.png"/></a> 
 <!--   <a href="https://www.codechef.com/users/joy2022" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codechef/codechef-original.svg" alt="codechef" alt="joy2022" height="30" width="40" /></a> -->
   [![CodeChef](https://img.shields.io/badge/CodeChef-4B8D67?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/joy2022)
+  [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codechef/codechef-original.svg" alt="codechef" width="40" height="40" />](https://www.codechef.com/users/joy2022)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeforces/codeforces-plain.svg" alt="codeforces" width="40" height="40" />](https://codeforces.com/profile/silent_joy)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="twitter" width="40" height="40" />](https://twitter.com/yourusername)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" width="40" height="40" />](https://twitter.com/_JoydeepMallick)
+
   <a href="https://codeforces.com/profile/silent_joy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="silent_joy" height="30" width="40" /></a>
 </p>
 
