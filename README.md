@@ -85,4 +85,4 @@ Here are some ideas to get you started:
 
 <!-- Footer -->
 <h2>🧐 Want to learn how I did it 🐱‍🚀<h2>
-Do give it a read, the blog had been of great help:- [design an attractive github profile](https://bootcamp.uxdesign.cc/how-to-design-an-attractive-github-profile-readme-3618d6c53783)
+Do give it a read, the blog had been of great help:- [design_an_attractive_github_profile](https://bootcamp.uxdesign.cc/how-to-design-an-attractive-github-profile-readme-3618d6c53783)
