@@ -20,12 +20,15 @@ Here are some ideas to get you started:
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=👋Holla%20Contributors&animation=fadeIn" />
 
 <!-- Body -->
-<h2> 🛠🧰 &nbsp;Some Tools I Have Learned and Used to Code</h2>
+<h2> 🛠🧰 &nbsp;Some Tools I Have been learning and use to Code</h2>
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" alt="vim" width="45" height="45"/>
- 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/emacs/emacs-original.svg" alt="emacs" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/hlissner/doom-emacs/assets/icons/hicolor/96x96/apps/doom.png" alt="Doom Emacs" width="45" height="45"/>
+
+  
   <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/> -->
 </p>
 
