@@ -25,7 +25,7 @@ Here are some ideas to get you started:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" alt="vim" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/emacs/emacs-original.svg" alt="emacs" width="45" height="45"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/EmacsIcon.svg" alt="emacs" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/hlissner/doom-emacs/assets/icons/hicolor/96x96/apps/doom.png" alt="Doom Emacs" width="45" height="45"/>
 
   
