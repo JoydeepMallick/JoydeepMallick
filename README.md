@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 
 <!-- PROBLEMS SOLVED -->
 ![LeetCode Stats](https://leetcard.jacoblin.cool/JOYDEEP_MALLICK?theme=wtf&font=Noto%20Sans%20Bengali&ext=heatmap)
-
+[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=silent_Joy)](https://codeforces.com/profile/silent_Joy)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">   
