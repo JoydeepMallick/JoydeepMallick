@@ -43,8 +43,7 @@ Here are some ideas to get you started:
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=joydeepmallick" alt="joydeepmallick" /></a> </p>
 
 <!-- PROBLEMS SOLVED -->
-[![Leetcode Stats](https://leetcard.jacoblin.cool/JOYDEEP_MALLICK)](https://leetcode.com/JOYDEEP_MALLICK)
-
+![LeetCode Stats](https://leetcard.jacoblin.cool/JOYDEEP_MALLICK?theme=wtf&font=Noto%20Sans%20Bengali&ext=heatmap)
 
 
 <h3 align="left">Connect with me:</h3>
