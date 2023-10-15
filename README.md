@@ -43,6 +43,10 @@ Here are some ideas to get you started:
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=joydeepmallick" alt="joydeepmallick" /></a> </p>
 
 
+[![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool)](https://leetcode.com/JOYDEEP_MALLICK)
+
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">   
   <a href="https://www.codechef.com/users/joy2022"><img height="40" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/codechef.svg"/></a> 
