@@ -51,7 +51,7 @@ Here are some ideas to get you started:
   <a href="https://www.codechef.com/users/joy2022"><img height="40" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/codechef.svg"/></a> 
   <a href="https://codeforces.com/profile/silent_joy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="silent_joy" height="30" width="40" /></a>
 <a href="https://twitter.com/_JoydeepMallick" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="twitter" width="40" height="30" /></a>
-<a href="https://www.linkedin.com/in/joydeep-mallick-466a78251/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" width="40" height="40" /></a>
+<a href="https://www.linkedin.com/in/JoydeepMallick/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" width="40" height="40" /></a>
 </p>
 
 
