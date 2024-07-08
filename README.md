@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 
 <h1 align="center">Hi 👋, I'm Joydeep Mallick</h1>
-<h3 align="center">A passionate competitive coder<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">, web developer🕸👨🏼‍💻 and machine learning enthusiast🤖 from India</h3>
+<h3 align="center">A passionate competitive coder<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">, web developer🕸👨🏼‍💻 and Generative AI enthusiast🤖trying to innovate complex prompts, from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joydeepmallick&label=Profile%20views&color=0e75b6&style=flat" alt="joydeepmallick" /> </p>
 
