@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 [![Joydeep's youtube stats](https://youtube-stats-card.vercel.app/api?channelid=UCLsbcO8ugtdULvNDA-SeIuQ)](https://www.youtube.com/channel/UCLsbcO8ugtdULvNDA-SeIuQ)
 
 <!-- Medium stats -->
-[![Medium GitHub stats](https://medium-readme-stats.vercel.app/api/post?name=joydeep)](https://medium.com/@joydeep150703)
+[![Medium GitHub stats](https://medium-readme-stats.vercel.app/api/post?name=joydeep150703)](https://medium.com/@joydeep150703)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">   
