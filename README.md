@@ -46,6 +46,10 @@ Here are some ideas to get you started:
 ![LeetCode Stats](https://leetcard.jacoblin.cool/JOYDEEP_MALLICK?theme=wtf&font=Noto%20Sans%20Bengali&ext=heatmap)
 [![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=silent_Joy)](https://codeforces.com/profile/silent_Joy)
 
+<!-- Youtube stats -->
+[![Dhyey's youtube stats](https://youtube-stats-card.vercel.app/api?channelid=UCLsbcO8ugtdULvNDA-SeIuQ)](https://www.youtube.com/channel/UCLsbcO8ugtdULvNDA-SeIuQ)
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">   
   <a href="https://www.codechef.com/users/joy2022"><img height="40" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/codechef.svg"/></a> 
