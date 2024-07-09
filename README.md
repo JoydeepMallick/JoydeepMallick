@@ -47,8 +47,10 @@ Here are some ideas to get you started:
 [![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=silent_Joy)](https://codeforces.com/profile/silent_Joy)
 
 <!-- Youtube stats -->
-[![Dhyey's youtube stats](https://youtube-stats-card.vercel.app/api?channelid=UCLsbcO8ugtdULvNDA-SeIuQ)](https://www.youtube.com/channel/UCLsbcO8ugtdULvNDA-SeIuQ)
+[![Joydeep's youtube stats](https://youtube-stats-card.vercel.app/api?channelid=UCLsbcO8ugtdULvNDA-SeIuQ)](https://www.youtube.com/channel/UCLsbcO8ugtdULvNDA-SeIuQ)
 
+<!-- Medium stats -->
+[![Medium GitHub stats](https://medium-readme-stats.vercel.app/api/post?name=joydeep)](https://medium.com/@joydeep150703)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">   
