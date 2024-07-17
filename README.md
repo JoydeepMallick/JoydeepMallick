@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 <!-- PROBLEMS SOLVED -->
 ![LeetCode Stats](https://leetcard.jacoblin.cool/JOYDEEP_MALLICK?theme=wtf&font=Noto%20Sans%20Bengali&ext=heatmap)
 [![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=silent_Joy)](https://codeforces.com/profile/silent_Joy)
-[![CodeChef Stats](https://codechef-readme-stats.onrender.com/joy2022?v=1)](https://www.codechef.com/users/joy2022)
+[CodeChef Stats](https://codechef-readme-stats.onrender.com/joy2022?v=1)
 
 
 <!-- Youtube stats -->
