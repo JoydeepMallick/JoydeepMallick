@@ -121,9 +121,11 @@ Here are some ideas to get you started:
 
 
 <!-- Footer -->
-<h3 align="center">🧐 Want to learn how I did it 🐱‍🚀<h3>
+<h4 align="center">🧐 Want to learn how I did it 🐱‍🚀<h4>
 <p align="center">
   Do give it a read, the blog had been of great help:- 
+  
   <a href="https://bootcamp.uxdesign.cc/how-to-design-an-attractive-github-profile-readme-3618d6c53783">design_an_attractive_github_profile</a> 
+  
   <a href="https://github-contributions.vercel.app/">Also_check this_out</a>
 </p>
