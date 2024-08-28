@@ -67,7 +67,7 @@ Here are some ideas to get you started:
 <p align="center">
   <!-- Youtube stats -->
   <a href="https://www.youtube.com/@_JoydeepMallick">
-    <img src="https://youtube-stats-card.vercel.app/api?channelid=_JoydeepMallick" alt="joydeepmallick youtube"/>
+    <img src="https://youtube-stats-card.vercel.app/api?channelid=UCLsbcO8ugtdULvNDA-SeIuQ" alt="joydeepmallick youtube"/>
   </a>
   <!-- [![Joydeep's youtube stats](https://youtube-stats-card.vercel.app/api?channelid=UCLsbcO8ugtdULvNDA-SeIuQ)](https://www.youtube.com/channel/UCLsbcO8ugtdULvNDA-SeIuQ)-->
   <!-- Medium stats -->
