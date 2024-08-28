@@ -111,20 +111,19 @@ Here are some ideas to get you started:
 </p>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joydeepmallick&" alt="joydeepmallick" /></p>
+<h2 align="center"> 
+  Lets Digest it today!!! <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '32px'>
+</h2>
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=joydeepmallick&theme=gruvbox" alt="shub39's WakaTime stats" />
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=highcontrast" alt="jokes"/>
 </p>
-
-<h2> Lets Digest it today!!! <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '32px'></h2>
-
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=highcontrast)
 
 
 <!-- Footer -->
-<h2>🧐 Want to learn how I did it 🐱‍🚀<h2>
-Do give it a read, the blog had been of great help:- 
-  
-  [design_an_attractive_github_profile](https://bootcamp.uxdesign.cc/how-to-design-an-attractive-github-profile-readme-3618d6c53783)
-  
-  [Also_check this_out](https://github-contributions.vercel.app/)
+<h3 align="center">🧐 Want to learn how I did it 🐱‍🚀<h3>
+<p align="center">
+  Do give it a read, the blog had been of great help:- 
+  <a href="https://bootcamp.uxdesign.cc/how-to-design-an-attractive-github-profile-readme-3618d6c53783">design_an_attractive_github_profile</a> 
+  <a href="https://github-contributions.vercel.app/">Also_check this_out</a>
+</p>
