@@ -103,13 +103,13 @@ Here are some ideas to get you started:
 </p>
 
 
-
+<!-- Github Stats -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=joydeepmallick&show_icons=true&locale=en&layout=compact" alt="joydeepmallick" />
   <img src="https://github-readme-stats.vercel.app/api?username=joydeepmallick&show_icons=true&locale=en" alt="joydeepmallick" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=joydeepmallick&" alt="joydeepmallick" />
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=joydeepmallick&show_icons=true&locale=en" alt="joydeepmallick" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joydeepmallick&" alt="joydeepmallick" /></p>
 
