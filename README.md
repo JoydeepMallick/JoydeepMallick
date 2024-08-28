@@ -29,24 +29,30 @@ Here are some ideas to get you started:
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/EmacsIcon.svg" alt="emacs" width="45" height="45"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" alt="Kaggle" width="45" height="45"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" alt="Google_Colab" width="45" height="45"/>
-
-  
-  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/> -->
 </p>
 
 
 <h1 align="center">Hi 👋, I'm Joydeep Mallick</h1>
-<h3 align="center">A passionate competitive coder<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">, web developer🕸👨🏼‍💻 and Generative AI enthusiast🤖trying to innovate complex prompts, from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=joydeepmallick&label=Profile%20views&color=0e75b6&style=flat" alt="joydeepmallick" /> </p>
+<h3 align="center">
+  A passionate competitive coder <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">, web developer🕸👨🏼‍💻 and Generative AI enthusiast🤖trying to innovate complex prompts, from India
+</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=joydeepmallick" alt="joydeepmallick" /></a> </p>
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=joydeepmallick&label=Profile%20views&color=0e75b6&style=flat" alt="joydeepmallick" /> </p>
+
+<p align="center"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=joydeepmallick" alt="joydeepmallick" />
+  </a> 
+</p>
 
 <!-- PROBLEMS SOLVED -->
-![LeetCode Stats](https://leetcard.jacoblin.cool/JOYDEEP_MALLICK?theme=wtf&font=Noto%20Sans%20Bengali&ext=heatmap)
-[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=silent_Joy)](https://codeforces.com/profile/silent_Joy)
-[![CodeChef Stats](https://codechef-readme-stats.onrender.com/joy2022?v=1)](https://www.codechef.com/users/joy2022)
-
+<p align="center">
+  [![LeetCode Stats](https://leetcard.jacoblin.cool/JOYDEEP_MALLICK?theme=wtf&font=Noto%20Sans%20Bengali&ext=heatmap)](https://leetcode.com/u/JOYDEEP_MALLICK/)
+  [![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=silent_Joy)](https://codeforces.com/profile/silent_Joy)
+  [![CodeChef Stats](https://codechef-readme-stats.onrender.com/joy2022?v=1)](https://www.codechef.com/users/joy2022)
+</p>
 
 <!-- Youtube stats -->
 [![Joydeep's youtube stats](https://youtube-stats-card.vercel.app/api?channelid=UCLsbcO8ugtdULvNDA-SeIuQ)](https://www.youtube.com/channel/UCLsbcO8ugtdULvNDA-SeIuQ)
