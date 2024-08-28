@@ -49,10 +49,18 @@ Here are some ideas to get you started:
 
 <!-- PROBLEMS SOLVED -->
 <p align="center">
-  <a href="https://leetcode.com/u/JOYDEEP_MALLICK/"><img src="https://leetcard.jacoblin.cool/JOYDEEP_MALLICK?theme=wtf&font=Noto%20Sans%20Bengali&ext=heatmap"></img></a>
-  [![LeetCode Stats](https://leetcard.jacoblin.cool/JOYDEEP_MALLICK?theme=wtf&font=Noto%20Sans%20Bengali&ext=heatmap)](https://leetcode.com/u/JOYDEEP_MALLICK/)
-  [![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=silent_Joy)](https://codeforces.com/profile/silent_Joy)
-  [![CodeChef Stats](https://codechef-readme-stats.onrender.com/joy2022?v=1)](https://www.codechef.com/users/joy2022)
+  <a href="https://leetcode.com/u/JOYDEEP_MALLICK/">
+    <img src="https://leetcard.jacoblin.cool/JOYDEEP_MALLICK?theme=wtf&font=Noto%20Sans%20Bengali&ext=heatmap" alt="joydeepmallick"></img>
+  </a>
+  <!-- [![LeetCode Stats](https://leetcard.jacoblin.cool/JOYDEEP_MALLICK?theme=wtf&font=Noto%20Sans%20Bengali&ext=heatmap)](https://leetcode.com/u/JOYDEEP_MALLICK/) -->
+  <a href="https://codeforces.com/profile/silent_Joy">
+    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=silent_Joy" alt="joydeepmallick"></img>
+  </a>
+  <!-- [![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=silent_Joy)](https://codeforces.com/profile/silent_Joy) -->
+    <a href="https://www.codechef.com/users/joy2022">
+    <img src="https://codechef-readme-stats.onrender.com/joy2022?v=1" alt="joydeepmallick"></img>
+  </a>
+  <!-- [![CodeChef Stats](https://codechef-readme-stats.onrender.com/joy2022?v=1)](https://www.codechef.com/users/joy2022) -->
 </p>
 
 <!-- Youtube stats -->
