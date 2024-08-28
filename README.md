@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=👋Holla%20Contributors&animation=fadeIn" />
 
 <!-- Body -->
-<h2> 🛠🧰 &nbsp;Some Tools I Have been learning and use to Code</h2>
+<h2 align="center"> 🛠🧰 &nbsp;Some Tools I Have been learning and use to Code</h2>
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
