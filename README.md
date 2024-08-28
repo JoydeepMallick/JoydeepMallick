@@ -95,6 +95,8 @@ Here are some ideas to get you started:
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joydeepmallick&" alt="joydeepmallick" /></p>
 
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=joydeepmallick&theme=gruvbox" alt="shub39's WakaTime stats" />
+</p>
 
 <h2> Lets Digest it today!!! <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '32px'></h2>
 
