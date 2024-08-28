@@ -50,15 +50,15 @@ Here are some ideas to get you started:
 <!-- PROBLEMS SOLVED -->
 <p align="center">
   <a href="https://leetcode.com/u/JOYDEEP_MALLICK/">
-    <img src="https://leetcard.jacoblin.cool/JOYDEEP_MALLICK?theme=wtf&font=Noto%20Sans%20Bengali&ext=heatmap" alt="joydeepmallick"></img>
+    <img src="https://leetcard.jacoblin.cool/JOYDEEP_MALLICK?theme=wtf&font=Noto%20Sans%20Bengali&ext=heatmap" alt="joydeepmallick"/>
   </a>
   <!-- [![LeetCode Stats](https://leetcard.jacoblin.cool/JOYDEEP_MALLICK?theme=wtf&font=Noto%20Sans%20Bengali&ext=heatmap)](https://leetcode.com/u/JOYDEEP_MALLICK/) -->
   <a href="https://codeforces.com/profile/silent_Joy">
-    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=silent_Joy" alt="joydeepmallick"></img>
+    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=silent_Joy" alt="joydeepmallick"/>
   </a>
   <!-- [![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=silent_Joy)](https://codeforces.com/profile/silent_Joy) -->
     <a href="https://www.codechef.com/users/joy2022">
-    <img src="https://codechef-readme-stats.onrender.com/joy2022?v=1" alt="joydeepmallick"></img>
+    <img src="https://codechef-readme-stats.onrender.com/joy2022?v=1" alt="joydeepmallick"/>
   </a>
   <!-- [![CodeChef Stats](https://codechef-readme-stats.onrender.com/joy2022?v=1)](https://www.codechef.com/users/joy2022) -->
 </p>
@@ -69,8 +69,8 @@ Here are some ideas to get you started:
 <!-- Medium stats -->
 [![Medium GitHub stats](https://medium-readme-stats.vercel.app/api/post?name=joydeep150703)](https://medium.com/@joydeep150703)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">   
+<h3 align="center">Connect with me:</h3>
+<p align="center">   
   <a href="https://www.codechef.com/users/joy2022"><img height="40" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/codechef.svg"/></a> 
   <a href="https://codeforces.com/profile/silent_joy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="silent_joy" height="30" width="40" /></a>
 <a href="https://twitter.com/_JoydeepMallick" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="twitter" width="40" height="30" /></a>
@@ -80,8 +80,8 @@ Here are some ideas to get you started:
 
 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
+<h3 align="center">Languages and Tools:</h3>
+<p align="center"> 
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>   
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>   
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>   
@@ -104,7 +104,10 @@ Here are some ideas to get you started:
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=joydeepmallick&show_icons=true&locale=en&layout=compact" alt="joydeepmallick" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=joydeepmallick&show_icons=true&locale=en&layout=compact" alt="joydeepmallick" />
+  <img src="https://github-readme-stats.vercel.app/api?username=joydeepmallick&show_icons=true&locale=en" alt="joydeepmallick" />
+</p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=joydeepmallick&show_icons=true&locale=en" alt="joydeepmallick" /></p>
 
