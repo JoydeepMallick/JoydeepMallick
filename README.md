@@ -175,7 +175,7 @@ Here are some ideas to get you started:
 <br/>
 <br/>
 <p align="center"> 
-  🧐 Want to learn how I did it 🐱‍🚀. Check them 👉🏼
+  🧐 Want to decorate you GitHub too 🐱‍🚀. Check them 👉🏼
   <a href="https://bootcamp.uxdesign.cc/how-to-design-an-attractive-github-profile-readme-3618d6c53783">[1]</a> 
   <a href="https://github-contributions.vercel.app/">[2]</a>
 </p>
