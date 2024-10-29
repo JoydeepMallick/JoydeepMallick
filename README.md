@@ -167,19 +167,18 @@ Here are some ideas to get you started:
 <h3 align="center">😲 Preparing for those nerve racking Aptitude rounds 😰<h3>
 <p align="center"> 
   Avoid googling different stuffs, I have listed all in one place
-  <a href="https://docs.google.com/document/d/1RBY__-zAqn1JbLy_AZz8dxIQLluxSvXe-ZuZMA74ifs/edit?usp=sharing">Check this out🙂</a>
-</p>
-<p align="center"> 
+  <a href="https://docs.google.com/document/d/1RBY__-zAqn1JbLy_AZz8dxIQLluxSvXe-ZuZMA74ifs/edit?usp=sharing">Check this out🙂</a>.
   Wanna contribute homie! Just ping me😸!!!
 </p>
 
 <!-- Footer -->
-
+<br/>
+<br/>
+<br/>
+<br/>
 <p align="center"> 
   🧐 Want to learn how I did it 🐱‍🚀. Check them 👉🏼
   <a href="https://bootcamp.uxdesign.cc/how-to-design-an-attractive-github-profile-readme-3618d6c53783">[1]</a> 
-</p>
-<p align="center"> 
   <a href="https://github-contributions.vercel.app/">[2]</a>
 </p>
 
