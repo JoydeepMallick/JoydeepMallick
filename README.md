@@ -164,16 +164,14 @@ Here are some ideas to get you started:
   <img src="https://readme-jokes.vercel.app/api?theme=highcontrast" alt="jokes"/>
 </p>
 
-<h3 align="center">😲 Preparing for those nerve racking Aptitude rounds 😰<h3>
+<h2 align="center">😲 Preparing for those nerve racking Aptitude rounds 😰<h2>
 <p align="center"> 
-  Avoid googling different stuffs, I have listed all in one place
+  Avoid googling different stuffs, I have listed all in one place.
   <a href="https://docs.google.com/document/d/1RBY__-zAqn1JbLy_AZz8dxIQLluxSvXe-ZuZMA74ifs/edit?usp=sharing">Check this out🙂</a>.
   Wanna contribute homie! Just ping me😸!!!
 </p>
 
 <!-- Footer -->
-<br/>
-<br/>
 <br/>
 <br/>
 <p align="center"> 
