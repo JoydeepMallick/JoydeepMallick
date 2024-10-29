@@ -164,7 +164,7 @@ Here are some ideas to get you started:
   <img src="https://readme-jokes.vercel.app/api?theme=highcontrast" alt="jokes"/>
 </p>
 
-<h4 align="center">😲 Preparing for those nerve racking Aptitude rounds 😰<h4>
+<h3 align="center">😲 Preparing for those nerve racking Aptitude rounds 😰<h3>
 <p align="center"> 
   Avoid googling different stuffs, I have listed all in one place
   <a href="https://docs.google.com/document/d/1RBY__-zAqn1JbLy_AZz8dxIQLluxSvXe-ZuZMA74ifs/edit?usp=sharing">Check this out🙂</a>
@@ -174,11 +174,12 @@ Here are some ideas to get you started:
 </p>
 
 <!-- Footer -->
-<h4 align="center">🧐 Want to learn how I did it 🐱‍🚀<h4>
+
 <p align="center"> 
-  <a href="https://bootcamp.uxdesign.cc/how-to-design-an-attractive-github-profile-readme-3618d6c53783">design_an_attractive_github_profile</a> 
+  🧐 Want to learn how I did it 🐱‍🚀. Check them 👉🏼
+  <a href="https://bootcamp.uxdesign.cc/how-to-design-an-attractive-github-profile-readme-3618d6c53783">[1]</a> 
 </p>
 <p align="center"> 
-  <a href="https://github-contributions.vercel.app/">Also_check this_out</a>
+  <a href="https://github-contributions.vercel.app/">[2]</a>
 </p>
 
