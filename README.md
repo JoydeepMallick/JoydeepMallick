@@ -3,8 +3,8 @@
 <img align="center" width=1000 src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=👋Holla%20Contributors&animation=fadeIn" />
 
 <span>
-  <img align="left" width=150 src="https://github.com/sindresorhus/sindresorhus/blob/main/party-furby.gif" />
-  <img align="right" width=150 src="https://github.com/sindresorhus/sindresorhus/blob/main/party-furby.gif" />
+  <img align="left" width=120 src="https://github.com/sindresorhus/sindresorhus/blob/main/party-furby.gif" />
+  <img align="right" width=120 src="https://github.com/sindresorhus/sindresorhus/blob/main/party-furby.gif" />
 </span>
 
 <br/>
