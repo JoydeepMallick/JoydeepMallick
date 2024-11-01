@@ -1,6 +1,6 @@
 
 <!-- Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=👋Holla%20Contributors&animation=fadeIn" />
+<img align="center" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=👋Holla%20Contributors&animation=fadeIn" />
 
 <span>
   <img align="left" width=200 src="https://github.com/sindresorhus/sindresorhus/blob/main/party-furby.gif" />
