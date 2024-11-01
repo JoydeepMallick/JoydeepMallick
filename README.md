@@ -3,8 +3,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=👋Holla%20Contributors&animation=fadeIn" />
 
 <span>
-  <img align="left" width=250 src="https://github.com/sindresorhus/sindresorhus/blob/main/party-furby.gif" />
-  <img align="right" width=250 src="https://github.com/sindresorhus/sindresorhus/blob/main/party-furby.gif" />
+  <img align="left" width=100 src="https://github.com/sindresorhus/sindresorhus/blob/main/party-furby.gif" />
+  <img align="right" width=100 src="https://github.com/sindresorhus/sindresorhus/blob/main/party-furby.gif" />
 </span>
 
 <br/>
@@ -168,7 +168,6 @@
   Wanna contribute homie! Just ping me😸!!!
 </p>
 
-<img align="center" src="https://github.com/sindresorhus/sindresorhus/blob/main/flames.gif"/>
 
 <!-- Footer -->
 <br/>
@@ -178,4 +177,6 @@
   <a href="https://bootcamp.uxdesign.cc/how-to-design-an-attractive-github-profile-readme-3618d6c53783">[1]</a> 
   <a href="https://github-contributions.vercel.app/">[2]</a>
 </p>
+
+<img align="center" width=250 src="https://github.com/sindresorhus/sindresorhus/blob/main/flames.gif"/>
 
