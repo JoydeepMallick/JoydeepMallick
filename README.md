@@ -178,7 +178,7 @@
 Thanks for taking the pains to scroll down, here's your reward🧙🏼‍♂️
 - The Collection you always wanted💩 aka [Wallpapers](https://github.com/JoydeepMallick/Wallpapers)
 - The Books that made your imagination alive🐉 aka [Storybooks and Comics](https://github.com/JoydeepMallick/story-books-and-comics)
-- The Books of wisom and knowledge aka [Programming books](https://github.com/JoydeepMallick/Computer-Programming-Resources) and [Engineering books](https://github.com/JoydeepMallick/Computer-Science-Engineering-Study-material-B-tech)
+- The Books of wisdom and knowledge📚 aka [Programming books](https://github.com/JoydeepMallick/Computer-Programming-Resources) and [Engineering books](https://github.com/JoydeepMallick/Computer-Science-Engineering-Study-material-B-tech)
 
 
 <img align="center" width=1000 src="https://github.com/sindresorhus/sindresorhus/blob/main/flames.gif"/>
