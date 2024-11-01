@@ -1,5 +1,4 @@
 
-<!-- Header -->
 <img align="center" width=1000 src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=👋Holla%20Contributors&animation=fadeIn" />
 
 <span>
@@ -13,7 +12,7 @@
 <br/>
 <br/>
 
-<!-- Body -->
+
 <h2 align="center"> 🛠🧰 &nbsp;Some Tools I Have been learning and use to Code</h2>
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
@@ -166,7 +165,6 @@
 </p>
 
 
-<!-- Footer -->
 <br/>
 <br/>
 <p align="center"> 
@@ -176,4 +174,43 @@
 </p>
 
 <img align="center" width=1000 src="https://github.com/sindresorhus/sindresorhus/blob/main/flames.gif"/>
+
+<section id="path-of-the-saint" style="font-family: 'Papyrus', fantasy;">
+  <h2 style="text-align: center; color: #2E8B57;">The Saint's Collection</h2>
+  <p style="color: #4B0082; font-size: 1.1em; margin-top: 0.5em; line-height: 1.6;">
+    Hail, wanderer of realms beyond! In these hallowed pages, a collection awaits thee, a tapestry woven of wisdom,
+    adventure, and the whispers of ages long past. Step forth, and let the treasures of this sacred glade reveal themselves to you.
+  </p>
+  <p style="color: #4B0082; font-size: 1.1em; line-height: 1.6;">
+    <i>For those who seek beauty:</i> behold a gallery of handpicked <strong>Wallpapers</strong>, each one a
+    portal to realms as grand as the summits of High Hrothgar or as tranquil as the Moon Sugar fields of Elsweyr.
+  </p>
+  <ul style="color: #2F4F4F; list-style-type: square; padding-left: 1.2em;">
+    <li><a href="[Your Wallpaper Collection Link]" target="_blank" style="text-decoration: none; color: #8B4513;">
+        <strong>The Guardian’s Visions</strong> - A collection of landscapes and vistas, reflecting the heart of Nirn itself.
+    </a></li>
+    <li><a href="[Another Wallpaper Link]" target="_blank" style="text-decoration: none; color: #8B4513;">
+        <strong>The Spirits’ Dreams</strong> - Abstract and fantastical realms for the seeker of the unusual.
+    </a></li>
+  </ul>
+  <p style="color: #4B0082; font-size: 1.1em; line-height: 1.6;">
+    <i>For those who seek wisdom:</i> here rest tomes of <strong>Technical Knowledge</strong> and <strong>Stories</strong>,
+    collected from the far corners of the land. Let these pages stir your thoughts and enrich your journey.
+  </p>
+  <ul style="color: #2F4F4F; list-style-type: square; padding-left: 1.2em;">
+    <li><a href="[Your Technical Book Link]" target="_blank" style="text-decoration: none; color: #8B4513;">
+        <strong>Codex of the Arcane Machines</strong> - A compendium of coding wisdom for the seeker of deeper understanding.
+    </a></li>
+    <li><a href="[Your Story Book Link]" target="_blank" style="text-decoration: none; color: #8B4513;">
+        <strong>Legends of Old</strong> - A scroll of tales and lore, with stories that have traveled the ages.
+    </a></li>
+  </ul>
+  <p style="color: #4B0082; font-size: 1.1em; line-height: 1.6;">
+    <i>May your path be ever guided by starlight and the wisdom of the ages.</i> If you should ever wish to return to this
+    glade, know that it shall await you, eternal and unchanged, until the stars themselves fade from the heavens.
+  </p>
+</section>
+
+<img align="center" width=1000 src="https://github.com/sindresorhus/sindresorhus/blob/main/flames.gif"/>
+
 
