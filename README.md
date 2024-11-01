@@ -3,8 +3,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=👋Holla%20Contributors&animation=fadeIn" />
 
 <span>
-  <img align="left" src="https://github.com/sindresorhus/sindresorhus/blob/main/party-furby.gif" />
-  <img align="right" src="https://github.com/sindresorhus/sindresorhus/blob/main/party-furby.gif" />
+  <img align="left" width=250 src="https://github.com/sindresorhus/sindresorhus/blob/main/party-furby.gif" />
+  <img align="right" width=250 src="https://github.com/sindresorhus/sindresorhus/blob/main/party-furby.gif" />
 </span>
 
 <br/>
@@ -167,6 +167,8 @@
   <a href="https://docs.google.com/document/d/1RBY__-zAqn1JbLy_AZz8dxIQLluxSvXe-ZuZMA74ifs/edit?usp=sharing">Check this out🙂</a>.
   Wanna contribute homie! Just ping me😸!!!
 </p>
+
+<img align="center" src="https://github.com/sindresorhus/sindresorhus/blob/main/flames.gif"/>
 
 <!-- Footer -->
 <br/>
