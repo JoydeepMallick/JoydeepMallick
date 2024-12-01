@@ -146,6 +146,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=joydeepmallick&show_icons=true&locale=en&layout=compact" alt="joydeepmallick" />
   <img src="https://github-readme-stats.vercel.app/api?username=joydeepmallick&show_icons=true&locale=en" alt="joydeepmallick" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=joydeepmallick&" alt="joydeepmallick" />
+  ![](https://raw.githubusercontent.com/joydeepmallick/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+  ![](https://raw.githubusercontent.com/joydeepmallick/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 </p>
 
 
