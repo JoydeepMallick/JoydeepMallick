@@ -31,14 +31,24 @@
   A passionate competitive coder <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">, web developer🕸👨🏼‍💻 and Generative AI enthusiast🤖trying to innovate complex prompts, from India
 </h3>
 
+<!-- Stats -->
+
 <p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=joydeepmallick&label=Profile%20views&color=0e75b6&style=flat" alt="joydeepmallick" /> </p>
+  <img src="https://komarev.com/ghpvc/?username=joydeepmallick&label=Profile%20views&color=0e75b6&style=flat" alt="joydeepmallick" /> 
+</p>
 
 <p align="center"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=joydeepmallick" alt="joydeepmallick" />
   </a> 
 </p>
+
+<p align="center">
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JoydeepMallick&theme=radical&exclude=html,CSS,Jupyter%20Notebook" height="180em" alt="Most Commits Languages"/>
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JoydeepMallick&theme=radical&exclude=html,CSS,Jupyter%20Notebook" height="180em" alt="Most Repo Languages"/>
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JoydeepMallick&theme=radical&utcOffset=5.30" height="180em" alt="Time Graph"/>
+</p>
+
 
 <!-- PROBLEMS SOLVED -->
 <p align="center">
