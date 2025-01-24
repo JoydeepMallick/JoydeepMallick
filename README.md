@@ -186,8 +186,9 @@ Thanks for taking the pains to scroll down, here's your reward🧙🏼‍♂️
 
 <div align="center">
   Counting since since 24th Jan 2025
-
-<img align="center" src="https://count.getloli.com/@:JoydeepMallick?theme=rule34" />
+</div>
+<div align="center">
+  <img align="center" src="https://count.getloli.com/@:JoydeepMallick?theme=rule34" />
 </div>
 
 <img align="center" width=1000 src="https://github.com/sindresorhus/sindresorhus/blob/main/flames.gif"/>
