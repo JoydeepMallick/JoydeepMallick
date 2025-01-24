@@ -184,11 +184,11 @@ Thanks for taking the pains to scroll down, here's your reward🧙🏼‍♂️
 - The Books that made your imagination alive🐉 aka [Storybooks and Comics](https://github.com/JoydeepMallick/story-books-and-comics)
 - The Books of wisdom and knowledge📚 aka [Programming books](https://github.com/JoydeepMallick/Computer-Programming-Resources) and [Engineering books](https://github.com/JoydeepMallick/Computer-Science-Engineering-Study-material-B-tech)
 
-<p align="center" >
+<div align="center">
   Counting since since 24th Jan 2025
-</p>
-<img align="center" src="https://count.getloli.com/@:JoydeepMallick?theme=rule34" />
 
+<img align="center" src="https://count.getloli.com/@:JoydeepMallick?theme=rule34" />
+</div>
 
 <img align="center" width=1000 src="https://github.com/sindresorhus/sindresorhus/blob/main/flames.gif"/>
 
