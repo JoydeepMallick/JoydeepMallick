@@ -44,21 +44,21 @@
 </p>
 
 <p align="center">
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=JoydeepMallick&theme=codeSTACKr" height="180em" alt="GitHub summary"/>
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JoydeepMallick&theme=radical&exclude=html,CSS,Jupyter%20Notebook" height="180em" alt="Most Commits Languages"/>
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JoydeepMallick&theme=radical&exclude=html,CSS,Jupyter%20Notebook" height="180em" alt="Most Repo Languages"/>
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JoydeepMallick&theme=shades_of_purple&utcOffset=8" height="180em" alt="Time Graph"/>
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=JoydeepMallick&theme=codeSTACKr" height="270em" alt="GitHub summary"/>
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JoydeepMallick&theme=radical&exclude=html,CSS,Jupyter%20Notebook" height="270em" alt="Most Commits Languages"/>
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JoydeepMallick&theme=radical&exclude=html,CSS,Jupyter%20Notebook" height="270em" alt="Most Repo Languages"/>
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JoydeepMallick&theme=shades_of_purple&utcOffset=8" height="270em" alt="Time Graph"/>
 </p>
 
 
 <!-- PROBLEMS SOLVED -->
 <p align="center">
   <a href="https://leetcode.com/u/JOYDEEP_MALLICK/">
-    <img src="https://leetcard.jacoblin.cool/JOYDEEP_MALLICK?theme=wtf&font=Noto%20Sans%20Bengali&ext=heatmap" alt="joydeepmallick"/>
+    <img src="https://leetcard.jacoblin.cool/JOYDEEP_MALLICK?theme=wtf&font=Noto%20Sans%20Bengali&ext=heatmap" height="270em" alt="joydeepmallick"/>
   </a>
   <!-- [![LeetCode Stats](https://leetcard.jacoblin.cool/JOYDEEP_MALLICK?theme=wtf&font=Noto%20Sans%20Bengali&ext=heatmap)](https://leetcode.com/u/JOYDEEP_MALLICK/) -->
   <a href="https://codeforces.com/profile/silent_Joy">
-    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=silent_Joy" alt="joydeepmallick"/>
+    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=silent_Joy" height="270em" alt="joydeepmallick"/>
   </a>
   <!-- [![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=silent_Joy)](https://codeforces.com/profile/silent_Joy) -->
     <a href="https://www.codechef.com/users/joy2022">
