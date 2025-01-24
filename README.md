@@ -51,29 +51,27 @@
   <a href="https://leetcode.com/u/JOYDEEP_MALLICK/">
     <img src="https://leetcard.jacoblin.cool/JOYDEEP_MALLICK?theme=wtf&font=Noto%20Sans%20Bengali&ext=heatmap" height="270em" alt="joydeepmallick"/>
   </a>
-  <!-- [![LeetCode Stats](https://leetcard.jacoblin.cool/JOYDEEP_MALLICK?theme=wtf&font=Noto%20Sans%20Bengali&ext=heatmap)](https://leetcode.com/u/JOYDEEP_MALLICK/) -->
+ 
   <a href="https://codeforces.com/profile/silent_Joy">
     <img src="https://codeforces-readme-stats.vercel.app/api/card?username=silent_Joy" height="270em" alt="joydeepmallick"/>
   </a>
-  <!-- [![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=silent_Joy)](https://codeforces.com/profile/silent_Joy) -->
-    <a href="https://www.codechef.com/users/joy2022">
-    <img src="https://codechef-readme-stats.onrender.com/joy2022?v=1"  height="270em" alt="joydeepmallick"/>
+  
+  <a href="https://www.codechef.com/users/joy2022">
+    <img src="https://codechef-readme-stats.onrender.com/joy2022?v=1"  height="320em" alt="joydeepmallick"/>
   </a>
-  <!-- [![CodeChef Stats](https://codechef-readme-stats.onrender.com/joy2022?v=1)](https://www.codechef.com/users/joy2022) -->
+  
 </p>
 
 
 <p align="center">
   <!-- Youtube stats -->
   <a href="https://www.youtube.com/@_JoydeepMallick">
-    <img src="https://youtube-stats-card.vercel.app/api?channelid=UCLsbcO8ugtdULvNDA-SeIuQ"  height="270em" alt="joydeepmallick youtube"/>
+    <img src="https://youtube-stats-card.vercel.app/api?channelid=UCLsbcO8ugtdULvNDA-SeIuQ"  height="250em" alt="joydeepmallick youtube"/>
   </a>
-  <!-- [![Joydeep's youtube stats](https://youtube-stats-card.vercel.app/api?channelid=UCLsbcO8ugtdULvNDA-SeIuQ)](https://www.youtube.com/channel/UCLsbcO8ugtdULvNDA-SeIuQ)-->
   <!-- Medium stats -->
   <a href="https://medium.com/@joydeep150703">
-    <img src="https://medium-readme-stats.vercel.app/api/post?name=joydeep150703"  height="270em" alt="joydeepmallick medium"/>
+    <img src="https://medium-readme-stats.vercel.app/api/post?name=joydeep150703"  height="250em" alt="joydeepmallick medium"/>
   </a>
-  <!-- [![Medium GitHub stats](https://medium-readme-stats.vercel.app/api/post?name=joydeep150703)](https://medium.com/@joydeep150703)-->
 </p>
 
 
