@@ -147,9 +147,9 @@
 
 <!-- Github Stats -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=joydeepmallick&show_icons=true&locale=en&layout=compact" alt="joydeepmallick" />
-  <img src="https://github-readme-stats.vercel.app/api?username=joydeepmallick&show_icons=true&locale=en" alt="joydeepmallick" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=joydeepmallick&" alt="joydeepmallick" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=joydeepmallick&show_icons=true&locale=en&layout=compact&theme=radical" height="180em" alt="joydeepmallick" />
+  <img src="https://github-readme-stats.vercel.app/api?username=joydeepmallick&show_icons=true&locale=en&theme=radical"  height="180em" alt="joydeepmallick" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=joydeepmallick&theme=radical" height="180em" alt="joydeepmallick" />
 </p>
 
 
