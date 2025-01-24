@@ -38,12 +38,7 @@
 </p>
 
 <p align="center"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=joydeepmallick" alt="joydeepmallick" />
-  </a> 
-</p>
-
-<p align="center">
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=JoydeepMallick&theme=juicyfresh&column=-1&no-frame=true" alt="joydeepmallick" />
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=JoydeepMallick&theme=codeSTACKr" height="270em" alt="GitHub summary"/>
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JoydeepMallick&theme=radical&exclude=html,CSS,Jupyter%20Notebook" height="270em" alt="Most Commits Languages"/>
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JoydeepMallick&theme=radical&exclude=html,CSS,Jupyter%20Notebook" height="270em" alt="Most Repo Languages"/>
