@@ -57,7 +57,7 @@
   </a>
   
   <a href="https://www.codechef.com/users/joy2022">
-    <img src="https://codechef-readme-stats.onrender.com/joy2022?v=1"  height="300em" alt="joydeepmallick"/>
+    <img src="https://codechef-readme-stats.onrender.com/joy2022?v=1" alt="joydeepmallick"/>
   </a>
   
 </p>
@@ -66,11 +66,11 @@
 <p align="center">
   <!-- Youtube stats -->
   <a href="https://www.youtube.com/@_JoydeepMallick">
-    <img src="https://youtube-stats-card.vercel.app/api?channelid=UCLsbcO8ugtdULvNDA-SeIuQ"  height="220em" alt="joydeepmallick youtube"/>
+    <img src="https://youtube-stats-card.vercel.app/api?channelid=UCLsbcO8ugtdULvNDA-SeIuQ"  height="200em" alt="joydeepmallick youtube"/>
   </a>
   <!-- Medium stats -->
   <a href="https://medium.com/@joydeep150703">
-    <img src="https://medium-readme-stats.vercel.app/api/post?name=joydeep150703"  height="220em" alt="joydeepmallick medium"/>
+    <img src="https://medium-readme-stats.vercel.app/api/post?name=joydeep150703"  height="200em" alt="joydeepmallick medium"/>
   </a>
 </p>
 
