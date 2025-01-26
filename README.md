@@ -161,10 +161,17 @@
   <img src="https://readme-jokes.vercel.app/api?theme=highcontrast" alt="jokes"/>
 </p>
 
-<h2 align="center">😲 Preparing for those nerve racking Aptitude rounds 😰<h2>
+<h2 align="center">😲 Preparing for those nerve racking Interview rounds 😰<h2>
 <p align="center"> 
-  Avoid googling different stuffs, I have listed all in one place.
-  <a href="https://docs.google.com/document/d/1RBY__-zAqn1JbLy_AZz8dxIQLluxSvXe-ZuZMA74ifs/edit?usp=sharing">Check this out🙂</a>.
+  I have listed them in one place, might save some of your time and 🐈‍⬛Best of Luck🐈
+  <ul>
+    <li>
+      <a href="https://docs.google.com/document/d/1RBY__-zAqn1JbLy_AZz8dxIQLluxSvXe-ZuZMA74ifs/edit?usp=sharing">Basic Aptitude Tricks🙂</a>
+    </li>
+    <li>
+      <a href="https://docs.google.com/document/d/17szsqoipcf4VBqccg-Lb4AQuSvIewIgRRZ6cczuCbK8/edit?usp=sharing">Important Algorithms</a>
+    </li>
+  </ul>
   Wanna contribute homie! Just ping me😸!!!
 </p>
 
