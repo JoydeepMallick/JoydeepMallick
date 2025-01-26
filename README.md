@@ -41,8 +41,8 @@
   <img align="center" src="https://github-profile-trophy.vercel.app/?username=JoydeepMallick&theme=juicyfresh&column=-1&no-frame=true" alt="joydeepmallick" />
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=JoydeepMallick&theme=codeSTACKr" height="230em" alt="GitHub summary"/>
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JoydeepMallick&theme=radical&exclude=html,CSS,Jupyter%20Notebook" height="230em" alt="Most Commits Languages"/>
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JoydeepMallick&theme=radical&exclude=html,CSS,Jupyter%20Notebook" height="240em" alt="Most Repo Languages"/>
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JoydeepMallick&theme=shades_of_purple&utcOffset=8" height="240em" alt="Time Graph"/>
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JoydeepMallick&theme=radical&exclude=html,CSS,Jupyter%20Notebook" height="250em" alt="Most Repo Languages"/>
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JoydeepMallick&theme=shades_of_purple&utcOffset=8" height="250em" alt="Time Graph"/>
 </p>
 
 
