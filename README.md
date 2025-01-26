@@ -164,7 +164,7 @@
 <h2 align="center">😲 Preparing for those nerve racking Interview rounds 😰<h2>
 <p align="center"> 
   I have listed them in one place, might save some of your time and 🐈‍⬛Best of Luck🐈
-  <ul>
+  <ul class="inline-block">
     <li>
       <a href="https://docs.google.com/document/d/1RBY__-zAqn1JbLy_AZz8dxIQLluxSvXe-ZuZMA74ifs/edit?usp=sharing">Basic Aptitude Tricks🙂</a>
     </li>
