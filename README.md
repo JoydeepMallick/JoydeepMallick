@@ -39,8 +39,8 @@
 
 <p align="center"> 
   <img align="center" src="https://github-profile-trophy.vercel.app/?username=JoydeepMallick&theme=juicyfresh&column=-1&no-frame=true" alt="joydeepmallick" />
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=JoydeepMallick&theme=codeSTACKr" height="270em" alt="GitHub summary"/>
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JoydeepMallick&theme=radical&exclude=html,CSS,Jupyter%20Notebook" height="270em" alt="Most Commits Languages"/>
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=JoydeepMallick&theme=codeSTACKr" height="230em" alt="GitHub summary"/>
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JoydeepMallick&theme=radical&exclude=html,CSS,Jupyter%20Notebook" height="230em" alt="Most Commits Languages"/>
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JoydeepMallick&theme=radical&exclude=html,CSS,Jupyter%20Notebook" height="270em" alt="Most Repo Languages"/>
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JoydeepMallick&theme=shades_of_purple&utcOffset=8" height="270em" alt="Time Graph"/>
 </p>
@@ -162,9 +162,9 @@
 </p>
 
 <h2 align="center">😲 Preparing for those nerve racking Interview rounds 😰<h2>
-<p align="center"> 
+<p> 
   I have listed them in one place, might save some of your time and 🐈‍⬛Best of Luck🐈
-  <ul class="inline-block">
+  <ul>
     <li>
       <a href="https://docs.google.com/document/d/1RBY__-zAqn1JbLy_AZz8dxIQLluxSvXe-ZuZMA74ifs/edit?usp=sharing">Basic Aptitude Tricks🙂</a>
     </li>
