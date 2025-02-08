@@ -2,8 +2,8 @@
 <img align="center" width=1000 src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=👋Holla%20Contributors&animation=fadeIn" />
 
 <span>
-  <img align="left" width=120 src="https://github.com/sindresorhus/sindresorhus/blob/main/party-furby.gif" />
-  <img align="right" width=120 src="https://github.com/sindresorhus/sindresorhus/blob/main/party-furby.gif" />
+  <img align="left" width=120 src="./assets/party-furby.gif" />
+  <img align="right" width=120 src="./assets/party-furby.gif" />
 </span>
 
 <br/>
@@ -184,7 +184,7 @@
   <a href="https://github-contributions.vercel.app/">[2]</a>
 </p>
 
-<img align="center" width=1000 src="https://github.com/sindresorhus/sindresorhus/blob/main/flames.gif"/>
+<img align="center" width=1000 src="./assets/flames.gif"/>
 
 Thanks for taking the pains to scroll down, here's your reward🧙🏼‍♂️
 - The Collection you always wanted💩 aka [Wallpapers](https://github.com/JoydeepMallick/Wallpapers)
@@ -198,6 +198,6 @@ Thanks for taking the pains to scroll down, here's your reward🧙🏼‍♂️
   <img align="center" src="https://count.getloli.com/@:JoydeepMallick?theme=rule34" />
 </div>
 
-<img align="center" width=1000 src="https://github.com/sindresorhus/sindresorhus/blob/main/flames.gif"/>
+<img align="center" width=1000 src="./assets/flames.gif"/>
 
 
