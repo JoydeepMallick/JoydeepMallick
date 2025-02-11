@@ -171,6 +171,9 @@
     <li>
       <a href="https://docs.google.com/document/d/17szsqoipcf4VBqccg-Lb4AQuSvIewIgRRZ6cczuCbK8/edit?usp=sharing">Important Algorithms</a>
     </li>
+    <li>
+      <a href="https://docs.google.com/document/d/1xpMsXjWBhSy5rAOnO8qvZ45gYe1np500QdpZcnRgJXA/edit?usp=sharing">Important Links</a> collected from here and there
+    </li>
   </ul>
   Wanna contribute homie! Just ping me😸!!!
 </p>
