@@ -29,30 +29,30 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" alt="Google_Colab" width="45" height="45"/>
 </p>
 
-
 <h1 align="center">Hi 👋, I'm Joydeep Mallick</h1>
 
 <h3 align="center">
-  Passionate Competitive Coder <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">, Software Developer and Engineer👨🏼‍💻,🖌️ Digital Artist, Generative AI tinkerer 🤖
+  Passionate Competitive Coder <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">, Software Developer 👨🏼‍💻, Digital Artist 🖌️, and Generative AI Tinkerer 🤖
 </h3>
-
 <h4 align="center">
-   I blend logic with creativity — building smart code by day and redrawing pixels by night.
+  I blend logic with creativity — building smart code by day and redrawing pixels by night.
 </h4>
 
+<br/>
 
-<h3 align="center"> 🖌️🎨 Passionate about digital art — skilled in <b>Photoshop</b> & currently experimenting for creative workflows </h3>
-<h4 align="center">
-  🧩 Check out my <a href="https://github.com/JoydeepMallick/Visual_Edits_Portfolio"><b>visual editing projects</b></a> — manga, redraws, and more!
-</h4>
-
+<h3 align="center">🎨 Digital Art & Visual Creativity</h3>
 <p align="center">
-  but I'm equally passionate about <b>pencil sketching</b> ✏️🎨 and painting by hand
+  Skilled in <b>Photoshop</b>, I’m passionate about digital art — currently experimenting with advanced editing workflows and redraw techniques.
 </p>
-
-<h4 align="center">
-  ✏️ Also sharing some <a href="https://github.com/JoydeepMallick/Digital_Art_Reference"><b>hand-drawn sketches</b></a> — faces, leaves, and freeform art from my personal sketchbook.
-</h4>
+<p align="center">
+  🧩 Explore my <a href="https://github.com/JoydeepMallick/Visual_Edits_Portfolio"><b>Visual Editing Projects</b></a> — manga cleanups, redraws, and more!
+</p>
+<p align="center">
+  ✏️ Outside the digital canvas, I also love <b>pencil sketching</b> and <b>Painting</b> — from expressive faces to nature-inspired art.
+</p>
+<p align="center">
+  📓 Take a peek at my <a href="https://github.com/JoydeepMallick/Digital_Art_Reference"><b>Hand-Drawn Sketches</b></a> — directly from my personal sketchbook.
+</p>
 
 <!-- Stats -->
 
