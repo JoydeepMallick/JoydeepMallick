@@ -13,13 +13,16 @@
 <br/>
 
 
-<h2 align="center"> 🛠🧰 &nbsp;Some Tools I Have been learning and use to Code</h2>
+<h2 align="center"> 🛠🧰 &nbsp;Some Tools I Have Been Learning and Use to Code & Create</h2>
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" alt="vim" width="45" height="45"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Neovim-mark.svg" alt="neovim" width="45" height="45"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/EmacsIcon.svg" alt="emacs" width="45" height="45"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" alt="photoshop" width="45" height="45"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/The_GIMP_icon_-_gnome.svg" alt="gimp" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="visual studio" width="45" height="45"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" alt="Kaggle" width="45" height="45"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" alt="Google_Colab" width="45" height="45"/>
 </p>
