@@ -33,8 +33,26 @@
 <h1 align="center">Hi 👋, I'm Joydeep Mallick</h1>
 
 <h3 align="center">
-  A passionate competitive coder <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">, web developer🕸👨🏼‍💻 and Generative AI enthusiast🤖trying to innovate complex prompts, from India
+  Passionate Competitive Coder <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">, Software Developer and Engineer👨🏼‍💻,🖌️ Digital Artist, Generative AI tinkerer 🤖
 </h3>
+
+<h4 align="center">
+   I blend logic with creativity — building smart code by day and redrawing pixels by night.
+</h4>
+
+
+<h3 align="center"> 🖌️🎨 Passionate about digital art — skilled in <b>Photoshop</b> & currently experimenting for creative workflows </h3>
+<h4 align="center">
+  🧩 Check out my <a href="https://github.com/JoydeepMallick/Visual_Edits_Portfolio"><b>visual editing projects</b></a> — manga, redraws, and more!
+</h4>
+
+<p align="center">
+  but I'm equally passionate about <b>pencil sketching</b> ✏️🎨 and painting by hand
+</p>
+
+<h4 align="center">
+  ✏️ Also sharing some <a href="https://github.com/JoydeepMallick/Digital_Art_Reference"><b>hand-drawn sketches</b></a> — faces, leaves, and freeform art from my personal sketchbook.
+</h4>
 
 <!-- Stats -->
 
